@@ -26,9 +26,7 @@ To capture temporal dynamics and long-term dependencies, we construct an extende
 
 ---
 
-## Repository Structure
 
----
 
 ## Repository Structure
 
