@@ -28,6 +28,10 @@ To capture temporal dynamics and long-term dependencies, we construct an extende
 
 ## Repository Structure
 
+---
+
+## Repository Structure
+
 .
 |-- SONICATEL traffic train.csv      # Training set (~8,291+ samples, 5-min intervals)
 |-- SONICATEL traffic test.csv       # Test set (600+ samples)
@@ -37,4 +41,6 @@ To capture temporal dynamics and long-term dependencies, we construct an extende
 |-- KernelPrediction.m               # Prediction function for Kernel models
 |-- kernelmatrix.m                   # RBF & Polynomial Kernel Gram matrix calculation
 |-- main_Globecom.pdf                # Reference scientific paper (E. Reticcioli et al.)
-|-- README.md                        # Project documentation        
+|-- README.md                        # Project documentation
+
+---
