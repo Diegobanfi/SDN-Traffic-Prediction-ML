@@ -26,9 +26,6 @@ To capture temporal dynamics and long-term dependencies, we construct an extende
 
 ---
 
-## 📁 Repository Structure
-
-```text
 .
 ├── SONICATEL traffic train.csv      # Training set (~8,291+ samples, 5-min intervals)
 ├── SONICATEL traffic test.csv       # Test set (600+ samples)
@@ -37,7 +34,6 @@ To capture temporal dynamics and long-term dependencies, we construct an extende
 ├── KernelRidgeRegression.m          # Custom KRR implementation
 ├── KernelPrediction.m               # Prediction function for Kernel models
 ├── kernelmatrix.m                   # RBF & Polynomial Kernel Gram matrix calculation
-├── provakernel.m                    # MATLAB script for Kernel hyperparameter tuning
 ├── SDN_TRAFFIC_REGRESSION.pptx      # Project presentation slides
 ├── main_Globecom.pdf                # Reference scientific paper (E. Reticcioli et al.)
 └── README.md                        # Project documentation
